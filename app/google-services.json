@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26141454237",
+    "project_id": "esan2024-7b87f",
+    "storage_bucket": "esan2024-7b87f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26141454237:android:91b0c9390a3feaa17a0974",
+        "android_client_info": {
+          "package_name": "dev.ruben.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuOMBT5vkM-rW3zseQVwqaZdWcd0gzTh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
